@@ -1,6 +1,6 @@
 # Day-1-18_Among_Us_Akram_Fatih
 ## Nama
-- **Nama:** Akram Fatih
+**Nama:** Akram Fatih
 
 ## Deskripsi Repository
 Repository ini berisi dokumentasi kegiatan Workshop Day 1 dengan tema **"Building with AI, Managing Change with GitHub"**. Dokumentasi mencakup materi workshop, rangkuman pembelajaran, catatan penting, serta dokumentasi kegiatan.
