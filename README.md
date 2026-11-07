@@ -1,18 +1,17 @@
 # Day-1-18_Among_Us_Akram_Fatih
-## Nama
-**Nama:** Akram Fatih
+Sosialisasi TIK Day 1 Workshop GitHub
 
-## Deskripsi Repository
-Repository ini berisi dokumentasi kegiatan Workshop Day 1 dengan tema **"Building with AI, Managing Change with GitHub"**. Dokumentasi mencakup materi workshop, rangkuman pembelajaran, catatan penting, serta dokumentasi kegiatan.
+Nama Peserta: Akram Fatih
+Kelompok: Among Us
 
-## Tujuan Repository
-Repository ini dibuat untuk:
-1. Menyimpan materi dan hasil pembelajaran selama workshop.
-2. Mendokumentasikan pengetahuan baru yang diperoleh selama kegiatan.
-3. Menjadi arsip pembelajaran yang dapat dipelajari kembali.
-4. Menerapkan penggunaan GitHub sebagai media penyimpanan dan pengelolaan dokumentasi.
+Deskripsi Singkat: Sosialisasi TIK Day 1 Workshop GitHub.
 
-## Informasi Kegiatan Workshop
-Workshop Day 1 mengangkat tema **Building with AI, Managing Change with GitHub**, yang membahas pemanfaatan Artificial Intelligence (AI) serta penggunaan GitHub dalam pengelolaan dan dokumentasi pekerjaan.
+Tujuan: Memahami dasar penggunaan AI melalui Prompt Engineering serta mempelajari Git dan GitHub untuk mengelola perubahan kode, menyimpan proyek, dan mendukung proses pengembangan aplikasi secara terstruktur.
 
-Salah satu materi yang dipelajari adalah **Prompt Engineering**, yaitu teknik menyusun instruksi kepada AI agar menghasilkan jawaban sesuai kebutuhan. Materi ini mencakup empat komponen utama, yaitu Role, Task, Context, dan Format.
+Rangkuman materi
+Materi ini membahas dua topik utama:
+
+* Prompt Engineering: Teknik menyusun instruksi yang efektif untuk AI dengan memperhatikan Role, Task, Context, dan Format agar menghasilkan output sesuai kebutuhan.
+* Git dan GitHub: Git digunakan untuk melacak perubahan kode, sedangkan GitHub digunakan untuk menyimpan repository secara online dan mendukung kolaborasi.
+
+Materi juga mencakup dasar Git Workflow (Working Directory, Staging Area, dan Git Directory), perintah dasar Git seperti git init, git add, git commit, git push, dan git pull, serta konfigurasi SSH Key untuk menghubungkan komputer dengan GitHub.
