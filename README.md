@@ -1,4 +1,4 @@
-# Dokumentasi Workshop Day 1
+# Day-1-18_Among_Us_Akram_Fatih
 
 ## Identitas Peserta
 - **Nama:** Akram Fatih
